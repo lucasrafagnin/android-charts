@@ -1,5 +1,7 @@
-List of Android Chart Libraries
-======================
+# List of Android Chart Libraries
+
+[<img src="https://github.com/lucasrafagnin/android-charts/blob/master/header.png">](https://github.com/jstumpp/awesome-android)
+
 Name | Types
 --- | ---
 [Rings](https://github.com/lalongooo/rings) | Circular
