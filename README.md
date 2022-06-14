@@ -6,6 +6,8 @@ If you would like to suggest a library, please open an issue ✍🏻
 
 Name | Types | Stars
 --- | --- | ---
+[Vico](https://github.com/patrykandpatryk/vico) | Line, Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/patrykandpatryk/vico?style=social)
+[AAChartCore](https://github.com/AAChartModel/AAChartCore) | Column, Bar, Area, Line, Spline, Radar, Polar, Pie, Bubble, Pyramid, Funnel, Columnrange, Arearange | ![GitHub Repo stars](https://img.shields.io/github/stars/AAChartModel/AAChartCore?style=social)
 [Rings](https://github.com/lalongooo/rings) | Circular | ![GitHub Repo stars](https://img.shields.io/github/stars/lalongooo/rings?style=social)
 [ArcChart](https://github.com/imaNNeoFighT/ArcChartView) | Arc | ![GitHub Repo stars](https://img.shields.io/github/stars/imaNNeoFighT/ArcChartView?style=social)
 [AnimatedPieView](https://github.com/razerdp/AnimatedPieView) | Pie | ![GitHub Repo stars](https://img.shields.io/github/stars/razerdp/AnimatedPieView?style=social)
