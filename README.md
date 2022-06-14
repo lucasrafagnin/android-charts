@@ -2,58 +2,58 @@
 
 [<img src="https://github.com/lucasrafagnin/android-charts/blob/master/header.png">](https://github.com/jstumpp/awesome-android)
 
-Name | Types
---- | ---
-[Rings](https://github.com/lalongooo/rings) | Circular
-[ArcChart](https://github.com/imaNNeoFighT/ArcChartView) | Arc
-[AnimatedPieView](https://github.com/razerdp/AnimatedPieView) | Pie
-[ChartProgressBar](https://github.com/hadiidbouk/ChartProgressBar-Android) | Bar
-[AndroidDevCoder](https://github.com/AllenCoder/AndroidDevCoder) | Line
-[Spark](https://github.com/robinhood/spark) | Line
-[HelloCharts](https://github.com/lecho/hellocharts-android) | Line, Column, Pie, Bubble, Preview, Combo
-[AndroidPlot](https://github.com/halfhp/androidplot) | Line, Scatter, Bar, Pie, Step, CandleStick, Bubble
-[CharView](https://github.com/romandanylyk/ChartView) | Line
-[JZAndroidChart](https://github.com/donglua/JZAndroidChart) | Line, CandleStick
-[AnyChart](https://github.com/AnyChart/AnyChart-Android) | Line, Pie, Column, Veen, Radar, Tag, Heat map, Waterfall, Tree map, Scatter, Vertical, Range, Funnel, Pert, Polar, Pyramid, Bubble, Area, Bar, Box, Mosaic, Mekko, Circular, 3D, Pareto, Combo, Quadrant, Hilo, OHLC, Bubble, Maps, Scale, Speed, Thermometer
-[AndroidLineChart](https://github.com/jeanboydev/Android-LineChart) | Line
-[SlimChart](https://github.com/mancj/SlimChart) | Circular
-[SensorDataLogger](https://github.com/Steppschuh/Sensor-Data-Logger) | Sensor
-[GraphView](https://github.com/jjoe64/GraphView) | Line, Bar, Point
-[SectorProgressView](https://github.com/timqi/SectorProgressView) | Progress
-[BarChart](https://github.com/ITheBK/BarChart) | Bar
-[ikvStockChart](https://github.com/wordplat/ikvStockChart) | CandleStick, Stock
-[GoogleMaps3DPie](https://github.com/aminyazdanpanah/google-maps-3D-pie-chart-marker-clustering-java) | Map
-[PolygonsView](https://github.com/jiangzehui/polygonsview) | Polygon
-[SpiderWebScoreView](https://github.com/panpf/spider-web-score-view) | Polygon
-[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart-Realm) | ?
-[TrendChart](https://github.com/JeasonWong/TrendChart) | Trend
-[Charter](https://github.com/hrules6872/Charter) | Line, Bar
-[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Line, Bar, StackBar
-[XCL-Charts](https://github.com/xcltapestry/XCL-Charts) | Bar, Pie, Stacked Bar, Area, Line, Spline, Dount, Rose, Dial, Gauge, Radar, Circle, Scatter, Bubble, RangeBar, Wind Rose, Quadrant, Funnel
-[LChart](https://github.com/linheimx/LChart) | Line
-[TimeLineChart](https://github.com/jruesga/timeline-chart-view) | Data over time
-[SmoothLine](https://github.com/PaoloConte/smooth-line-chart) | Line
-[BarChart](https://github.com/ITheBK/BarChart) | Bar
-[RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView) | Polygon
-[ScatterPieChart](https://github.com/IntruderShanky/Scatter-PieChart) | Pie
-[Jgraph](https://github.com/ZuYun/Jgraph) | Line, Bar
-[AbilityChart](https://github.com/jiefly/AbilityChart) | Polygon
-[PlanPie](https://github.com/zurche/plain-pie) | Pie
-[SimpleWaveForm](https://github.com/maxyou/SimpleWaveform) | Bar, Sound
-[DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) | Circular
-[AndroidCharts](https://github.com/limccn/Android-Charts) | Gird, line, stick, candlestick, macd, pie, spider web, area, separated stick, pizza, round radar, rose
-[Achartengine](https://github.com/ddanny/achartengine) | Line, area, scatter, time, bar, pie, bubble, doughnut, range (high-low) bar, cubic line
-[WeatherChartView](https://github.com/kaku2015/WeatherChartView) | Weather
-[HzGrapher](https://github.com/handstudio/HzGrapher) | Radar, Line, Circle, Pie, Bubble, Scatter
-[Snake](https://github.com/txusballesteros/snake) | Line
-[FitChart](https://github.com/txusballesteros/fit-chart) | Circular
-[EazeGraph](https://github.com/blackfizz/EazeGraph) | Bar, Stacked, Pie, Line
-[AndroidStock](https://github.com/lzyzsd/AndroidStockChart) | Stock
-[DesCharts](https://github.com/bradipao/desCharts) | Line, Stacked, Bar
-[Bezier Curve](https://github.com/Steven-Luo/android-bezier-curve-chart) | Line
-[MagnificentChart](https://github.com/Geek-1001/MagnificentChart) | Round
-[Polonium](https://github.com/Erzer/polonium-chart-view) | Line
-[Afreechart](https://github.com/johnjohndoe/AFreeChart) | Line
+If you would like to suggest a library, please open an issue ✍🏻
 
+Name | Types | Stars
+--- | --- | ---
+[Rings](https://github.com/lalongooo) | Circular | ![GitHub Repo stars](https://img.shields.io/github/stars/lalongooo?style=social)
+[ArcChart](https://github.com/imaNNeoFighT/ArcChartView) | Arc | ![GitHub Repo stars](https://img.shields.io/github/stars/imaNNeoFighT/ArcChartView?style=social)
+[AnimatedPieView](https://github.com/razerdp/AnimatedPieView) | Pie | ![GitHub Repo stars](https://img.shields.io/github/stars/razerdp/AnimatedPieView?style=social)
+[ChartProgressBar](https://github.com/hadiidbouk/ChartProgressBar-Android) | Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/hadiidbouk/ChartProgressBar?style=social)
+[AndroidDevCoder](https://github.com/AllenCoder/AndroidDevCoder) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/AllenCoder/AndroidDevCoder?style=social)
+[Spark](https://github.com/robinhood/spark) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/robinhood/spark?style=social)
+[HelloCharts](https://github.com/lecho/hellocharts-android) | Line, Column, Pie, Bubble, Preview, Combo | ![GitHub Repo stars](https://img.shields.io/github/stars/lecho/hellocharts-android?style=social)
+[AndroidPlot](https://github.com/halfhp/androidplot) | Line, Scatter, Bar, Pie, Step, CandleStick, Bubble | ![GitHub Repo stars](https://img.shields.io/github/stars/halfhp/androidplot?style=social)
+[CharView](https://github.com/romandanylyk/ChartView) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/romandanylyk/ChartView?style=social)
+[JZAndroidChart](https://github.com/donglua/JZAndroidChart) | Line, CandleStick | ![GitHub Repo stars](https://img.shields.io/github/stars/donglua/JZAndroidChart?style=social)
+[AnyChart](https://github.com/AnyChart/AnyChart-Android) | Line, Pie, Column, Veen, Radar, Tag, Heat map, Waterfall, Tree map, Scatter, Vertical, Range, Funnel, Pert, Polar, Pyramid, Bubble, Area, Bar, Box, Mosaic, Mekko, Circular, 3D, Pareto, Combo, Quadrant, Hilo, OHLC, Bubble, Maps, Scale, Speed, Thermometer | ![GitHub Repo stars](https://img.shields.io/github/stars/AnyChart/AnyChart?style=social)
+[AndroidLineChart](https://github.com/jeanboydev/Android-LineChart) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/jeanboydev/Android-LineChart?style=social)
+[SlimChart](https://github.com/mancj/SlimChart) | Circular | ![GitHub Repo stars](https://img.shields.io/github/stars/mancj/SlimChart?style=social)
+[SensorDataLogger](https://github.com/Steppschuh/Sensor-Data-Logger) | Sensor | ![GitHub Repo stars](https://img.shields.io/github/stars/Steppschuh/Sensor-Data-Logger?style=social)
+[GraphView](https://github.com/jjoe64/GraphView) | Line, Bar, Point | ![GitHub Repo stars](https://img.shields.io/github/stars/jjoe64/GraphView?style=social)
+[SectorProgressView](https://github.com/timqi/SectorProgressView) | Progress | ![GitHub Repo stars](https://img.shields.io/github/stars/timqi/SectorProgressView?style=social)
+[BarChart](https://github.com/ITheBK/BarChart) | Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/ITheBK/BarChart?style=social)
+[ikvStockChart](https://github.com/wordplat/ikvStockChart) | CandleStick, Stock | ![GitHub Repo stars](https://img.shields.io/github/stars/wordplat/ikvStockChart?style=social)
+[GoogleMaps3DPie](https://github.com/aminyazdanpanah/google-maps-3D-pie-chart-marker-clustering-java) | Map | ![GitHub Repo stars](https://img.shields.io/github/stars/aminyazdanpanah/google-maps-3D-pie-chart-marker-clustering-java?style=social)
+[PolygonsView](https://github.com/jiangzehui/polygonsview) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/jiangzehui/polygonsview?style=social)
+[SpiderWebScoreView](https://github.com/panpf/spider-web-score-view) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/panpf/spider-web-score-view?style=social)
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart-Realm) | ? | ![GitHub Repo stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart?style=social)
+[TrendChart](https://github.com/JeasonWong/TrendChart) | Trend | ![GitHub Repo stars](https://img.shields.io/github/stars/JeasonWong/TrendChart?style=social)
+[Charter](https://github.com/hrules6872/Charter) | Line, Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/hrules6872/Charter?style=social)
+[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Line, Bar, StackBar | ![GitHub Repo stars](https://img.shields.io/github/stars/diogobernardino/WilliamChart?style=social)
+[XCL-Charts](https://github.com/xcltapestry/XCL-Charts) | Bar, Pie, Stacked Bar, Area, Line, Spline, Dount, Rose, Dial, Gauge, Radar, Circle, Scatter, Bubble, RangeBar, Wind Rose, Quadrant, Funnel | ![GitHub Repo stars](https://img.shields.io/github/stars/xcltapestry/XCL-Charts?style=social)
+[LChart](https://github.com/linheimx/LChart) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/linheimx/LChart?style=social)
+[TimeLineChart](https://github.com/jruesga/timeline-chart-view) | Data over time | ![GitHub Repo stars](https://img.shields.io/github/stars/jruesga/timeline-chart-view?style=social)
+[SmoothLine](https://github.com/PaoloConte/smooth-line-chart) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/PaoloConte/smooth-line-chart?style=social)
+[BarChart](https://github.com/ITheBK/BarChart) | Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/ITheBK/BarChart?style=social)
+[RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/DmitriyZaitsev/RadarChartView?style=social)
+[ScatterPieChart](https://github.com/IntruderShanky/Scatter-PieChart) | Pie | ![GitHub Repo stars](https://img.shields.io/github/stars/IntruderShanky/Scatter-PieChart?style=social)
+[Jgraph](https://github.com/ZuYun/Jgraph) | Line, Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/ZuYun/Jgraph?style=social)
+[AbilityChart](https://github.com/jiefly/AbilityChart) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/jiefly/AbilityChart?style=social)
+[PlanPie](https://github.com/zurche/plain-pie) | Pie | ![GitHub Repo stars](https://img.shields.io/github/stars/zurche/plain-pie?style=social)
+[SimpleWaveForm](https://github.com/maxyou/SimpleWaveform) | Bar, Sound | ![GitHub Repo stars](https://img.shields.io/github/stars/maxyou/SimpleWaveform?style=social)
+[DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) | Circular | ![GitHub Repo stars](https://img.shields.io/github/stars/bmarrdev/android-DecoView-charting?style=social)
+[AndroidCharts](https://github.com/limccn/Android-Charts) | Gird, line, stick, candlestick, macd, pie, spider web, area, separated stick, pizza, round radar, rose | ![GitHub Repo stars](https://img.shields.io/github/stars/limccn/Android-Charts?style=social)
+[Achartengine](https://github.com/ddanny/achartengine) | Line, area, scatter, time, bar, pie, bubble, doughnut, range (high-low) bar, cubic line | ![GitHub Repo stars](https://img.shields.io/github/stars/ddanny/achartengine?style=social)
+[WeatherChartView](https://github.com/kaku2015/WeatherChartView) | Weather | ![GitHub Repo stars](https://img.shields.io/github/stars/kaku2015/WeatherChartView?style=social)
+[HzGrapher](https://github.com/handstudio/HzGrapher) | Radar, Line, Circle, Pie, Bubble, Scatter | ![GitHub Repo stars](https://img.shields.io/github/stars/handstudio/HzGrapher?style=social)
+[Snake](https://github.com/txusballesteros/snake) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/txusballesteros/snake?style=social)
+[FitChart](https://github.com/txusballesteros/fit-chart) | Circular | ![GitHub Repo stars](https://img.shields.io/github/stars/txusballesteros/fit-chart?style=social)
+[EazeGraph](https://github.com/blackfizz/EazeGraph) | Bar, Stacked, Pie, Line | ![GitHub Repo stars](https://img.shields.io/github/stars/blackfizz/EazeGraph?style=social)
+[AndroidStock](https://github.com/lzyzsd/AndroidStockChart) | Stock | ![GitHub Repo stars](https://img.shields.io/github/stars/lzyzsd/AndroidStockChart?style=social)
+[DesCharts](https://github.com/bradipao/desCharts) | Line, Stacked, Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/bradipao/desCharts?style=social)
+[Bezier Curve](https://github.com/Steven-Luo/android-bezier-curve-chart) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/Steven-Luo?style=social)
+[MagnificentChart](https://github.com/Geek-1001/MagnificentChart) | Round | ![GitHub Repo stars](https://img.shields.io/github/stars/Geek-1001?style=social)
+[Polonium](https://github.com/Erzer/polonium-chart-view) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/Erzer/polonium-chart-view?style=social)
+[Afreechart](https://github.com/johnjohndoe/AFreeChart) | Line | ![GitHub Repo stars](https://img.shields.io/github/stars/johnjohndoe/AFreeChart?style=social)
 
-If this list helps you, favorite and send us your feedback :thumbsup:
