@@ -29,7 +29,7 @@ Name | Types | Stars
 [GoogleMaps3DPie](https://github.com/aminyazdanpanah/google-maps-3D-pie-chart-marker-clustering-java) | Map | ![GitHub Repo stars](https://img.shields.io/github/stars/aminyazdanpanah/google-maps-3D-pie-chart-marker-clustering-java?style=social)
 [PolygonsView](https://github.com/jiangzehui/polygonsview) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/jiangzehui/polygonsview?style=social)
 [SpiderWebScoreView](https://github.com/panpf/spider-web-score-view) | Polygon | ![GitHub Repo stars](https://img.shields.io/github/stars/panpf/spider-web-score-view?style=social)
-[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart-Realm) | ? | ![GitHub Repo stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart?style=social)
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | ? | ![GitHub Repo stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart?style=social)
 [TrendChart](https://github.com/JeasonWong/TrendChart) | Trend | ![GitHub Repo stars](https://img.shields.io/github/stars/JeasonWong/TrendChart?style=social)
 [Charter](https://github.com/hrules6872/Charter) | Line, Bar | ![GitHub Repo stars](https://img.shields.io/github/stars/hrules6872/Charter?style=social)
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | Line, Bar, StackBar | ![GitHub Repo stars](https://img.shields.io/github/stars/diogobernardino/WilliamChart?style=social)
